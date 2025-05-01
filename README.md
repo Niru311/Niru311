@@ -1,12 +1,11 @@
-- 👋 Hi, I’m Nirupam 
-- 👀 I’m passionate Computer Science Student
-- 🌱 I’m currently Percieving bTech in Computer Science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hi, I’m Nirupam
 
-<!---
-Niru311/Niru311 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👨‍💻 I’m a passionate Computer Science student
+
+🌱 Currently pursuing B.Tech in Computer Science
+
+🔍 I’m interested in collaborating on software development, AI/ML, and open-source projects
+
+📫 How to reach me: nirusurse03@gmail.com | https://www.linkedin.com/in/nirupam-surse-4b9092290/
+
+😄 Pronouns: He/Him
